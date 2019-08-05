@@ -1,15 +1,3 @@
-body {
-  background-color: cornflowerblue; }
 
-h1 {
-  color: white;
-  text-decoration: underline; }
-
-.circle {
-  background-color: darkred;
-  height: 100px;
-  width: 100px;
-  border-radius: 50%;
-  box-shadow: 0 0 8px #333; }
 
 /*# sourceMappingURL=main.css.map */
